@@ -11,6 +11,14 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_WETH.svg"
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xbdd07f92cd6dcdd73802eae184029396a3dd47bd",
+      "name": "My Token",
+      "symbol": "MTK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_MTK.svg"
     }
   ],
   "version": {
