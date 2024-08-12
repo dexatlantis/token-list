@@ -1,0 +1,21 @@
+{
+  "name": "Atlantis",
+  "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/token-list-interface.png",
+  "keywords": ["defi"],
+  "timestamp": "2024-08-012T10:30:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0x8aB8Ce5730f803597fd1004260D18194B52b3Ae4",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_WETH.svg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
