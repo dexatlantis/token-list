@@ -2,28 +2,36 @@
   "name": "Atlantis",
   "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/token-list-interface.png",
   "keywords": ["defi"],
-  "timestamp": "2024-08-012T10:30:00.000+00:00",
+  "timestamp": "2024-08-202T10:30:00.000+00:00",
   "tokens": [
     {
-      "chainId": 11155111,
-      "address": "0x8aB8Ce5730f803597fd1004260D18194B52b3Ae4",
+      "chainId": 84532,
+      "address": "0x9cEBf33ad9eff8AA923f5aad678cD5C539E55BB2",
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_WETH.svg"
     },
     {
-      "chainId": 11155111,
-      "address": "0xbdd07f92cd6dcdd73802eae184029396a3dd47bd",
+      "chainId": 84532,
+      "address": "0x50CcDCEb6ecCB138F755D1FB9Ef3b70a31e7D354",
       "name": "My Token",
       "symbol": "MTK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_MTK.svg"
+    },
+    {
+      "chainId": 84532,
+      "address": "0x2676ba506096edf91b4e33fd3ba9719dcc66ea54",
+      "name": "USDC Token",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_USDC.svg"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
