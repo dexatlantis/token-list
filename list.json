@@ -1,0 +1,45 @@
+{
+  "name": "Atlantis",
+  "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/token-list-interface.png",
+  "keywords": ["defi"],
+  "timestamp": "2025-02-132T10:30:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 10143,
+      "address": "0x1eA9099E3026e0b3F8Dd6FbacAa45f30fCe67431",
+      "name": "Atlantis",
+      "symbol": "ATL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_ATL.png"
+    },
+    {
+      "chainId": 10143,
+      "address": "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701",
+      "name": "Wrapped Monad",
+      "symbol": "WMON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_WMON.png"
+    },
+    {
+      "chainId": 10143,
+      "address": "0xB5a30b0FDc5EA94A52fDc42e3E9760Cb8449Fb37",
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_WETH.svg"
+    },
+    {
+      "chainId": 10143,
+      "address": "0xf817257fed379853cDe0fa4F97AB987181B1E5Ea",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_USDC.svg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
