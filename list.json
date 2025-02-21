@@ -2,7 +2,7 @@
   "name": "Atlantis",
   "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/token-list-interface.png",
   "keywords": ["defi"],
-  "timestamp": "2025-02-132T10:30:00.000+00:00",
+  "timestamp": "2025-02-21T10:30:00.000+00:00",
   "tokens": [
     {
       "chainId": 10143,
@@ -35,11 +35,43 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 10143,
+      "address": "0x617e6C7697CfF44F2545025a8Fc0199dFa6939d0",
+      "name": "WBTC Atlantis",
+      "symbol": "WBTC.a",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_WBTCa.png"
+    },
+    {
+      "chainId": 10143,
+      "address": "0xcE111B02d20AD2250dCeC6B71531D404FabEF3E7",
+      "name": "WETH Atlantis",
+      "symbol": "WETH.a",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_WETHa.png"
+    },
+    {
+      "chainId": 10143,
+      "address": "0x7777B6562950c7AD54d0E707aaC1f4DCA8A8e95A",
+      "name": "USDT Atlantis",
+      "symbol": "USDT.a",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_USDTa.png"
+    },
+    {
+      "chainId": 10143,
+      "address": "0x3F23D172e0B0497b6aAb290B4207B58C1b4ad8E0",
+      "name": "USDC Atlantis",
+      "symbol": "USDC.a",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_USDCa.png"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
