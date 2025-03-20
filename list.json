@@ -2,7 +2,7 @@
   "name": "Atlantis",
   "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/token-list-interface.png",
   "keywords": ["defi"],
-  "timestamp": "2025-02-21T10:30:00.000+00:00",
+  "timestamp": "2025-03-20T13:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 10143,
@@ -11,14 +11,6 @@
       "symbol": "ATL",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_ATL.png"
-    },
-    {
-      "chainId": 10143,
-      "address": "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701",
-      "name": "Wrapped Monad",
-      "symbol": "WMON",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_WMON.png"
     },
     {
       "chainId": 10143,
@@ -35,6 +27,38 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 10143,
+      "address": "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701",
+      "name": "Wrapped Monad",
+      "symbol": "WMON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_WMON.png"
+    },
+    {
+      "chainId": 10143,
+      "address": "0xE0590015A873bF326bd645c3E1266d4db41C4E6B",
+      "name": "Chog",
+      "symbol": "CHOG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_CHOG.png"
+    },
+    {
+      "chainId": 10143,
+      "address": "0x0F0BDEbF0F83cD1EE3974779Bcb7315f9808c714",
+      "name": "Molandak",
+      "symbol": "DAK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_DAK.png"
+    },
+    {
+      "chainId": 10143,
+      "address": "0xfe140e1dCe99Be9F4F15d657CD9b7BF622270C50",
+      "name": "Moyaki",
+      "symbol": "YAKI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_YAKI.png"
     },
     {
       "chainId": 10143,
@@ -71,7 +95,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
