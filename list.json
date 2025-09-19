@@ -2,7 +2,7 @@
   "name": "Atlantis",
   "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/token-list-interface.png",
   "keywords": ["defi"],
-  "timestamp": "2025-03-20T13:00:00.000+00:00",
+  "timestamp": "2025-09-19T14:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 10143,
@@ -91,11 +91,51 @@
       "symbol": "USDC.a",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_USDCa.png"
+    },
+    {
+      "chainId": 10143,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Monad",
+      "symbol": "MON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_MON.svg"
+    },
+    {
+      "chainId": 10143,
+      "address": "0xaEef2f6B429Cb59C9B2D7bB2141ADa993E8571c3",
+      "name": "gMON",
+      "symbol": "gMON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_gMON.png"
+    },
+    {
+      "chainId": 10143,
+      "address": "0x3a98250f98dd388c211206983453837c8365bdc1",
+      "name": "ShMonad",
+      "symbol": "shMON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_shMON.svg"
+    },
+    {
+      "chainId": 10143,
+      "address": "0xb2f82d0f38dc453d596ad40a37799446cc89274a",
+      "name": "aPriori Monad LST",
+      "symbol": "aprMON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_aprMON.png"
+    },
+    {
+      "chainId": 10143,
+      "address": "0xb38bb873cca844b20a9ee448a87af3626a6e1ef5",
+      "name": "MistToken",
+      "symbol": "MIST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dexatlantis/token-list/master/assets/asset_MIST.svg"
     }
   ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
